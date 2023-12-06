@@ -6,7 +6,7 @@ import io
 import json
 import os
 from deep_translator import GoogleTranslator
-import deep_translator
+
 
 app = Flask(__name__)
 
